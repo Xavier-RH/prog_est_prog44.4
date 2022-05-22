@@ -20,7 +20,7 @@ Presenta el uso de:
     <li>Arreglos</li>
     <li>Funciones y Prototipos</li>
     <li>struct</li>
-    <li>FILE, fopen, fclose</li>
+    <li>FILE, fopen, fclose, fwrite, fread</li>
   </ul>
 </p>
 
